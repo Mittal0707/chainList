@@ -1,0 +1,122 @@
+{
+  "chains": [
+    {
+      "chain_name": "Mainnet",
+      "chain_id": 1
+    },
+    {
+      "chain_name": "Ropsten Testnet",
+      "chain_id": 3
+    },
+    {
+      "chain_name": "Rinkeby Testnet",
+      "chain_id": 4
+    },
+    {
+      "chain_name": "Kovan Testnet",
+      "chain_id": 42
+    },
+    {
+      "chain_name": "xDai Chain",
+      "chain_id": 100
+    },
+    {
+      "chain_name": "Goerli Testnet",
+      "chain_id": 5
+    },
+    {
+      "chain_name": "Polygon Mainnet",
+      "chain_id": 137
+    },
+    {
+      "chain_name": "Binance Smart Chain",
+      "chain_id": 56
+    },
+    {
+      "chain_name": "Avalanche Mainnet",
+      "chain_id": 43114
+    },
+    {
+      "chain_name": "Fantom Opera Mainnet",
+      "chain_id": 250
+    },
+    {
+      "chain_name": "Hedera Hashgraph Mainnet",
+      "chain_id": 0
+    },
+    {
+      "chain_name": "Moonriver",
+      "chain_id": 1285
+    },
+    {
+      "chain_name": "Moonbeam",
+      "chain_id": 1284
+    },
+    {
+      "chain_name": "Celo Mainnet",
+      "chain_id": 5000
+    },
+    {
+      "chain_name": "Solana Mainnet",
+      "chain_id": 4294967295
+    },
+    {
+      "chain_name": "Terra Mainnet",
+      "chain_id": 100000
+    },
+    {
+      "chain_name": "NEAR Protocol Mainnet",
+      "chain_id": 1097616
+    },
+    {
+      "chain_name": "Oasis Network Mainnet",
+      "chain_id": 1024
+    },
+    {
+      "chain_name": "Harmony Mainnet",
+      "chain_id": 16777216
+    },
+    {
+      "chain_name": "BSC Testnet",
+      "chain_id": 97
+    },
+    {
+      "chain_name": "Avalanche Fuji Testnet",
+      "chain_id": 43113
+    },
+    {
+      "chain_name": "Fantom Testnet",
+      "chain_id": 342
+    },
+    {
+      "chain_name": "Hedera Hashgraph Testnet",
+      "chain_id": 501
+    },
+    {
+      "chain_name": "Moonriver Testnet",
+      "chain_id": 1286
+    },
+    {
+      "chain_name": "Moonbeam Testnet",
+      "chain_id": 1287
+    },
+    {
+      "chain_name": "Celo Testnet",
+      "chain_id": 5001
+    },
+    {
+      "chain_name": "Solana Testnet",
+      "chain_id": 4294967296
+    },
+    {
+      "chain_name": "Terra Testnet",
+      "chain_id": 100001
+    },
+    {
+      "chain_name": "NEAR Protocol Testnet",
+      "chain_id": 1087617
+    },
+    {
+      "chain_name": "Oasis Network Testnet",
+      "chain_id": 1025
+    },
